@@ -1,0 +1,3 @@
+import Challenge
+#print axioms DistinctRestrictedNumericalMatching.Goal
+#print axioms DistinctRestrictedNumericalMatching.solve

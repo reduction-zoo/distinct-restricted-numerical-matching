@@ -1,0 +1,2 @@
+'DistinctRestrictedNumericalMatching.Goal' depends on axioms: [propext, Classical.choice, Quot.sound]
+'DistinctRestrictedNumericalMatching.solve' depends on axioms: [propext, sorryAx, Classical.choice, Quot.sound]
